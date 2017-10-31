@@ -1,3 +1,5 @@
+*.cert
+*.key
 
 # Created by https://www.gitignore.io/api/node,visualstudiocode
 
